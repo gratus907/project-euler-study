@@ -1,0 +1,4 @@
+"/Users/wonseok/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.5981.166/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/11.1.0/bin/gcc-11 -DCMAKE_CXX_COMPILER=/usr/local/Cellar/gcc/11.1.0/bin/g++-11 -G "CodeBlocks - Unix Makefiles" /Users/wonseok/CLionProjects/project-euler-study
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wonseok/CLionProjects/project-euler-study/cmake-build-debug
