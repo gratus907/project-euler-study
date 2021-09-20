@@ -6,13 +6,29 @@
 
 #IncludeRegexTransform: 
 
-/Users/wonseok/CLionProjects/project-euler-study/lib/pebasic.h
+/home/gratus/CLionProjects/project-euler-study/lib/PEBasic.h
 bits/stdc++.h
 -
 cpuid.h
 -
 
-/Users/wonseok/CLionProjects/project-euler-study/main.cpp
-lib/pebasic.h
-/Users/wonseok/CLionProjects/project-euler-study/lib/pebasic.h
+/home/gratus/CLionProjects/project-euler-study/lib/Primes.h
+PEBasic.h
+/home/gratus/CLionProjects/project-euler-study/lib/PEBasic.h
+
+/home/gratus/CLionProjects/project-euler-study/lib/UnionFind.h
+PEBasic.h
+/home/gratus/CLionProjects/project-euler-study/lib/PEBasic.h
+
+/home/gratus/CLionProjects/project-euler-study/src/main.cpp
+../lib/PEBasic.h
+/home/gratus/CLionProjects/project-euler-study/lib/PEBasic.h
+../lib/Primes.h
+/home/gratus/CLionProjects/project-euler-study/lib/Primes.h
+../lib/UnionFind.h
+/home/gratus/CLionProjects/project-euler-study/lib/UnionFind.h
+unistd.h
+-
+pthread.h
+-
 

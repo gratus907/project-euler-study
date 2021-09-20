@@ -1,3 +1,4 @@
+#pragma once
 #include <bits/stdc++.h>
 #include <cpuid.h>
 using namespace std;
@@ -42,4 +43,24 @@ void print_machine_info() {
             memcpy(CPUBrandString + 32, CPUInfo, sizeof(CPUInfo));
     }
     cout << "CPU Type : " << CPUBrandString << '\n';
+}
+
+ostream& operator << (ostream& os, vector<int>& x) {
+    os << '[';
+    for (int i = 0; i < x.size(); i++) {
+        os << x[i];
+        os << (i+1 == x.size()?"]":", ");
+    }
+    return os;
+}
+
+int64_t concat(int a, int b) {
+    return stoi(to_string(a) + to_string(b));
+}
+int64_t concat(int64_t a, int64_t b) {
+    return stoi(to_string(a) + to_string(b));
+}
+
+bool find(vector<int> &v, int x) {
+    return upper_bound(v.begin(), v.end(), x) == lower_bound(v.begin(), v.end(), x);
 }

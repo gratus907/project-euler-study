@@ -1,8 +1,8 @@
 src_dir = ./src
 lib_dir = ./lib
 res_dir = ./results
-FLAGS = -Ofast
-CPP = g++-11
+FLAGS = -Ofast -lpthread -std=c++2a -funroll-loops -march=native -mtune=native
+CPP = g++
 
 help:
 	echo $(prj_src)

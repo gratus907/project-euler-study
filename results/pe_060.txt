@@ -1,3 +1,3 @@
 CPU Type : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
-Answer : 193060223
-Solution executed in 420 ms
+Answer : 26033
+Solution executed in 4002 ms

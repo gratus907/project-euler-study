@@ -1,4 +1,4 @@
-#include "../lib/pebasic.h"
+#include "../lib/PEBasic.h"
 
 int solve() {
     double lb = log10(1.23);
