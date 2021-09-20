@@ -1,3 +1,0 @@
-/home/gratus/CLionProjects/project-euler-study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/gratus/CLionProjects/project-euler-study/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/gratus/CLionProjects/project-euler-study/cmake-build-debug/CMakeFiles/main.dir

@@ -1,4 +1,0 @@
-/home/gratus/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/gratus/CLionProjects/project-euler-study
--- Configuring done
--- Generating done
--- Build files have been written to: /home/gratus/CLionProjects/project-euler-study/cmake-build-debug
